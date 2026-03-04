@@ -18,7 +18,7 @@ public class Frame3 extends javax.swing.JFrame {
             player.setMoney(player.getMoney() - item.getPrice());
             shoppingBasket.add(item); 
             jLabel3.setText("MONEY: " + player.getMoney());
-            jLabel2.setText("Skibidi toilet");
+            jLabel2.setText("Skibidi toilet"); //loi
             return true;
         } else {
             jLabel2.setText("Not enough money!");
