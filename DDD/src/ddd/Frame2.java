@@ -266,7 +266,7 @@ public class Frame2 extends javax.swing.JFrame {
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
         if(player.getMP() >= 15){
             player.setHP(player.getHP() + 20);
-            player.setMP(player.getMP() - 15);
+            player.setMP(player.getMP() - 15);/
             updateLabels();
         }
         else{
