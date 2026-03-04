@@ -16,7 +16,7 @@ public class Player extends Character{
     private int statsPoint = 0;
     private boolean armorEquipped = false;
     private boolean helmetEquipped = false;
-    private boolean quanSipEquipped = false;
+    private boolean quanSipEquipped = false;/
     private boolean empowered = false;
     private int originalAttack = 0;
 
@@ -174,3 +174,4 @@ public class Player extends Character{
 
     
 }
+
