@@ -24,7 +24,7 @@ public class Frame2 extends javax.swing.JFrame {
         
         jLabel7.setText("HP: " + enemy.getHP() + "/" + enemy.getMaxHP());
         jLabel8.setText("Level: " + enemy.getLevel());
-        jLabel9.setText("Attack: " + enemy.getAttack());
+        jLabel9.setText("Attack: " + enemy.getAttack());/
     }
     
     @SuppressWarnings("unchecked")
