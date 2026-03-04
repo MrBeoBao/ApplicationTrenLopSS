@@ -18,3 +18,5 @@ public class Magic extends Item {
         System.out.println(name + " (" + power + "): " + price + " gold");
     }
 }
+
+/
