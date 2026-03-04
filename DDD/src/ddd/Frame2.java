@@ -211,7 +211,7 @@ public class Frame2 extends javax.swing.JFrame {
             }
         }
 
-        player.setRagePoint(player.getRagePoint() + 20);
+        player.setRagePoint(player.getRagePoint() + 20);/
         updateLabels();
     }//GEN-LAST:event_jButton2ActionPerformed
 
